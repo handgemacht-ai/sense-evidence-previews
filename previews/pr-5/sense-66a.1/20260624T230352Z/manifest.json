@@ -1,0 +1,41 @@
+{
+  "artifacts": [
+    {
+      "bytes": 65333,
+      "caption": "Sc premium flash dismissed",
+      "mime_type": "image/png",
+      "path": "previews/pr-5/sense-66a.1/20260624T230352Z/sc-premium-flash-dismissed-9cec5c99.png",
+      "sha256": "9cec5c99faa9be51fc9eb3c5c73f572f2722c024bbb72b6679e67d66c7c9ed61",
+      "source_evidence_path": ".goal-evidence/sense-66a/sense-66a.1/20260624T230352Z/screenshots/sc-premium-flash-dismissed.png"
+    },
+    {
+      "bytes": 63056,
+      "caption": "Sc2 curate list lv connected",
+      "mime_type": "image/png",
+      "path": "previews/pr-5/sense-66a.1/20260624T230352Z/sc2-curate-list-lv-connected-5f9f70f0.png",
+      "sha256": "5f9f70f08e69665d04ebadecb005ab58db344e2bb6099ed7e041321d05ee5e2b",
+      "source_evidence_path": ".goal-evidence/sense-66a/sense-66a.1/20260624T230352Z/screenshots/sc2-curate-list-lv-connected.png"
+    },
+    {
+      "bytes": 63069,
+      "caption": "Sc2 final list lv connected",
+      "mime_type": "image/png",
+      "path": "previews/pr-5/sense-66a.1/20260624T230352Z/sc2-final-list-lv-connected-657af3fb.png",
+      "sha256": "657af3fb7ecddaf9bbbb4cdba2565207c64f78ab4d8b30d1e2e198bedb1dee72",
+      "source_evidence_path": ".goal-evidence/sense-66a/sense-66a.1/20260624T230352Z/screenshots/sc2-final-list-lv-connected.png"
+    },
+    {
+      "bytes": 53596,
+      "caption": "Sc6a note edit filled",
+      "mime_type": "image/png",
+      "path": "previews/pr-5/sense-66a.1/20260624T230352Z/sc6a-note-edit-filled-d03f91d6.png",
+      "sha256": "d03f91d6906538cf8da17a67987e53f3d73c8040f8dcbf0969c18a29e673831b",
+      "source_evidence_path": ".goal-evidence/sense-66a/sense-66a.1/20260624T230352Z/screenshots/sc6a-note-edit-filled.png"
+    }
+  ],
+  "bead_id": "sense-66a.1",
+  "goal_id": "sense-66a",
+  "run_id": "20260624T230352Z",
+  "source_pr": 5,
+  "source_repo": "handgemacht-ai/sense"
+}
